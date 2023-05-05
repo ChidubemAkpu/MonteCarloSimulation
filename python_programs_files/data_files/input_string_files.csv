@@ -1,0 +1,20 @@
+prop,op_str
+Aqui Perm,MBAL.MB[0].TANK[{Q19/OK64}].AQUIF.PERM
+Avg Net Res Thickness,MBAL.MB[0].TANK[{Q19/OK64}].RESTHICK
+Drawdown Constraint,GAP.MOD[{PROD}].WELL[{Q-19}].MaxDrawdown
+End Point Const to Gas Rel Perm,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.ENDPOINT.Krg
+End Point Const to Oil Rel Perm,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.ENDPOINT.Kro
+End Point Const to Water Rel Perm,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.ENDPOINT.Krw
+O/I rad ratio,MBAL.MB[0].TANK[{Q19/OK64}].AQUIF.RD
+OGIP,MBAL.MB[0].TANK[{Q19/OK64}].OGIP
+Perforation Thickness,PROSPER.SIN.IPR.Single.PerfInt
+Rel Perm to Gas Exp,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.EXPON.Krg
+Rel Perm to Oil Exp,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.EXPON.Kro
+Rel Perm to Water Exp,MBAL.MB[0].TANK[{Q19/OK64}].RELPERM.EXPON.Krw
+Res Porosity,MBAL.MB[0].TANK[{Q19/OK64}].POROSITY
+Res Rad,MBAL.MB[0].TANK[{Q19/OK64}].RESRADIUS
+Rock Compress,MBAL.MB[0].TANK[{Q19/OK64}].ROCKCOMPRESS
+Sand Thickness,PROSPER.SIN.IPR.Single.Thickness
+Well Perm,PROSPER.SIN.IPR.Single.ResPerm
+Well Skin,PROSPER.SIN.IPR.Single.Skin
+Well Tubing Size,PROSPER.SIN.EQP.Down.Data[1].TID

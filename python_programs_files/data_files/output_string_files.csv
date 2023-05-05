@@ -1,0 +1,10 @@
+prop,op_str
+IP Gas Rate,GAP.MOD[{PROD}].WELL[{Q-19}].SolverResults[0].GasRate
+IP Cond Rate,GAP.MOD[{PROD}].WELL[{Q-19}].SolverResults[0].OilRate
+Drawdown,GAP.MOD[{PROD}].WELL[{Q-19}].SolverResults[0].DrawDown
+FBHP,GAP.MOD[{PROD}].WELL[{Q-19}].SolverResults[0].FBHP
+FWHP,GAP.MOD[{PROD}].WELL[{Q-19}].SolverResults[0].FWHP
+Cum Cond Prod,GAP.MOD[{PROD}].WELL[{Q-19}].PREDRES[{01/01/2055}].CUMOIL
+Cum Gas Prod,GAP.MOD[{PROD}].WELL[{Q-19}].PREDRES[{01/01/2055}].CUMGAS
+vlp_import,GAP.MOD[{PROD}].WELL[{Q-19}]
+ipr_transfer,GAP.TRANSFERPROSPERIPR(MOD[{PROD}].WELL[{Q-19}]
